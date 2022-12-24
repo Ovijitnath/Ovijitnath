@@ -30,7 +30,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
-	![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+	![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailWindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 	![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 	
@@ -39,19 +39,14 @@
 - **Comfortable:**:
 
    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+	![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 	![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   
-
 <br>
-
 - **Familier**:
 
     ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-	![JWT](https://img.shields.io/badge/jwt%20-%23F7DF1E.svg?style=for-the-badge&logo=expressjs&logoColor=black)
-    
+	![JWT](https://img.shields.io/badge/jwt%20-%23F7DF1E.svg?style=for-the-badge&logo=expressjs&logoColor=black)   
 <br>
-
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -60,12 +55,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 	![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   
-
 <br>
-
- 
-
-
 </p>
 
 **Ovijitnath/Ovijitnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
