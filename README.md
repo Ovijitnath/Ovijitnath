@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Ovijit+Nath.+👋;I'm+a+Front+End+Developer;Also+A+Web+Developer.+;And+A+MERN+Developer.)
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
