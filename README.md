@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Ovijit+Nath.+👋;I'm+a+Front+End+Developer)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovijitnath&label=Profile%20views&color=0e75b6&style=flat" alt="ovijitnath" /> </p>
 
