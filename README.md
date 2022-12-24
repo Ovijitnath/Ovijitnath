@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Ovijit+Nath.+👋;I'm+a+Front+End+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Ovijit+Nath.+👋;I'm+a+Front+End+Developer+/+Web+Developer+/+MERN+Developer)
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
