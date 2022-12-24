@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Ovijit+Nath.+👋;I'm+a+Front+End+Developer;Also+A+Web+Developer.+;And+A+MERN+Developer.)
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h2 align="center">A passionate frontend developer from Bangladesh</h2>
 <h4><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h4>
 <p>I have graduated in Computer Science and Engineering from BGC Trust University. I’m very interested in beginning a career in the web development field. In past, I have worked on many projects, some of which details are given in my resume. I built those projects on both as a front-end developer as well as a backend developer. I am currently looking to apply my knowledge and skills in an organization of repute.</p>
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,ES6,ReactJS,NodeJS,ExpressJs,MongoDB**
